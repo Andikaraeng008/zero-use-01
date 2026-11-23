@@ -1,0 +1,17 @@
+# zero-use-01
+
+One line about a hilariously useless superpower, under 200 characters — for make.fun's "One Line, Zero Use: The Useless Superpower Sprint" bounty.
+
+[![bounty](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/Andikaraeng008/zero-use-01/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+Writes the line to `/output/entry.txt`.
+
+Entered on make.fun — https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?ref=fkrw3nqq
